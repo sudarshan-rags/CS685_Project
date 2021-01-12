@@ -1,0 +1,304 @@
+Context,Question,Answer
+Pandemic,What happens when an outbreak occurs?,move the outbreaks marker forward 1 space on the Outbreaks Track
+Pandemic,Is playing an Event card an action?,Playing an Event card is not an action.
+Pandemic,When can Eventcards be played?,"at any time, except in between drawing and resolving a card"
+Pandemic,When do we win?,as soon as cures to all 4 diseases are discovered
+Pandemic,How do we win?,"• if the outbreaks marker reaches the last space of the Outbreaks Track, • if you are unable to place the number of disease cubes actually needed on the board, or • if a player cannot draw 2 Player cards after doing his actions."
+Pandemic,When is a disease eradicated?,If the last cube of a cured disease is removed from the board
+Pandemic,What does Treat Disease do?,"Remove 1 disease cube from the city you are in, placing it in the cube supply next to the board. If this disease color has been cured (see Discover a Cure below), remove all cubes of that color from the city you are in"
+Pandemic,What does Build a Research Station do?,"Discard the City card that matches the city you are in to place a research station there. Take the research station from the pile next to the board. If all 6 research stations have been built, take a research station from anywhere on the board."
+Pandemic,What does Shuttle Flight do?,Move from a city with a research station to any other city that has a research station
+Pandemic,What does Charter Flight do?,Discard the City card that matches the city you are in to move to any city
+Pandemic,What does Direct Flight do?,Discard a City card to move to the city named on the card.
+Pandemic,Can I do the same action multiple times?,You may do the same action several times
+Pandemic,Where do discarded cards go?,to the Player Discard Pile
+Pandemic,What happens if I cannot draw enough cards?,the game ends and your team has lost
+Pandemic,What happens if I have more than 7 cards?,discard cards or play Event cards until you have 7 cards in hand
+Pandemic,What happens if the outbreaks marker reaches the last space?,the game ends and your team has lost
+Pandemic,What does the Quarantine Specialist do?,The Quarantine Specialist prevents both outbreaks and the placement of disease cubes in the city she is in and all cities connected to that city. She does not affect cubes placed during setup.
+Pandemic,What does the Scientist do?,The Scientist needs only 4 (not 5) City cards of the same disease color to Discover a Cure for that disease.
+Pandemic,What does the Researcher do?,"When doing the Share Knowledge action, the Researcher may give any City card from her hand to another player in the same city as her, without this card having to match her city. The transfer must be from her hand to the other player’s hand, but it can occur on either player’s turn."
+Pandemic,How many actions do I get per turn?,up to 4 actions
+Twilight_Struggle,What are the spaces on the map?,a country or block of countries
+Twilight_Struggle,How are battleground countries different?,special rules for scoring (see 10.1) and coup attempts (6.3)
+Twilight_Struggle,What do the brown lines mean?,connections within a region
+Twilight_Struggle,What do the black lines mean?,connections between countries in different regions
+Twilight_Struggle,What do the red lines mean?,connections between countries and superpowers
+Twilight_Struggle,When is a country controlled?,"• The player has Influence points in the country greater than or equal to the country’s Stability Number, and • The player’s Influence in the country exceeds his/her opponent’s Influence in that country by at least the country’s Stability Number."
+Twilight_Struggle,What are the parts of a card?,"an Operations Point value, an Event Title and an Event Description"
+Twilight_Struggle,What does a red star on a card mean?,associated with the USSR
+Twilight_Struggle,What does a white star on a card mean?,associated with the US
+Twilight_Struggle,What does a red and white star on a card mean?,not associated with either side
+Twilight_Struggle,How can cards be played?,as Events or Operations
+Twilight_Struggle,What does an asterisk on a card mean?,"When these cards are played as Events, they are removed permanently from the game."
+Twilight_Struggle,How are cards discarded?,Cards that are discarded (not permanently removed from the game) are placed in a face up pile adjacent to the draw pile.
+Twilight_Struggle,Where does the Defcon marker start?,on the 5 space of the DEFCON Track
+Twilight_Struggle,Where does the VP marker start?,on the Victory Points Track on the zero space
+Twilight_Struggle,Who is the Phasing Player?,the player whose Action Round is currently being played
+Twilight_Struggle,What happens if the draw deck has no cards?,reshuffle all discards to form a new draw deck
+Twilight_Struggle,"On turn 1, how many cards does each player get dealt?",enough cards to bring their total hand size to 8
+Twilight_Struggle,"On turn 4, how many cards does each player get dealt?",enough cards to bring their total hand size to 9
+Twilight_Struggle,How much does it cost to place Influence in a friendly country?,one (1) Operations point
+Twilight_Struggle,How much does it cost to place Influence in an uncontrolled country?,one (1) Operations point
+Twilight_Struggle,How much does it cost to place Influence in an enemy controled country?,two (2) Operations points
+Twilight_Struggle,What are Realignment rolls used for?,to reduce enemy Influence in a country
+Twilight_Struggle,How many times can Countries be targeted for Realignment?,more than once per Action Round
+Twilight_Struggle,How many spaces do you move the Military Operations marker when you coup?,equal to the Operations value of the card played
+Twilight_Struggle,What does a Coup in a Battleground country do?,degrades the DEFCON status one level (towards Nuclear War)
+Twilight_Struggle,What does advancing on the Space Race track do?,"results in an award of Victory Points, a special ability, or both"
+Twilight_Struggle,What does an underlined Event card title mean?,the effects of these Events last for the duration of the game
+Twilight_Struggle,What happens at DEFCON 4?,No Coup or Realignment rolls are permitted in Europe.
+Twilight_Struggle,What happens at DEFCON 3?,No Coup or Realignment rolls are permitted in Europe or Asia.
+Twilight_Struggle,What happens at DEFCON 2?,"No Coup or Realignment rolls are permitted in Europe, Asia, or the Middle East."
+Twilight_Struggle,What happens at DEFCON 1?,Game over. The player responsible for the status going to 1 (the Phasing Player) loses the game.
+Twilight_Struggle,When do I have Presence for scoring?,A superpower has Presence in a Region if it Controls at least one country in that Region.
+Twilight_Struggle,When do I have Domination for scoring?,"A superpower achieves Domination of a Region if it Controls more countries in that Region than its opponent, and it Controls more Battleground countries in that Region than its opponent. A superpower must Control at least one non-Battleground and one Battleground country in a Region in order to achieve Domination of that Region."
+Twilight_Struggle,When do I have Control for scoring?,"A superpower has Control of a Region if it Controls more countries in that Region than its opponent, and Controls all of the Battleground countries in that Region."
+Twilight_Struggle,What are the names of the Regions?,"Europe, Asia, Central America, South America, Africa, and the Middle East"
+Twilight_Struggle,What are the names of the sub-regions of Europe?,Eastern Europe and Western Europe
+Twilight_Struggle,What happens in the Headline Phase?,"Each player secretly selects a card from their hand. Once both players have made their choice, they reveal their cards to each other simultaneously."
+Twilight_Struggle,Can scoring cards be played during the Headline Phase?,Scoring cards may be played during the Headline Phase.
+Twilight_Struggle,Can the China Card be played during the Headline Phase?,‘The China Card’ may not be played during the Headline Phase
+Twilight_Struggle,Do I get operations points for playing a Headline card?,neither player receives operations points from cards played during the headline phase
+Twilight_Struggle,What happens if I have no more cards?,that player must sit out of the remaining Action Rounds while the opposing player completes the turn
+Twilight_Struggle,What happens if an Event cannot occur?,the Event does not occur
+Twilight_Struggle,What happens on a Realigment tie?,"Ties are considered a draw, and no markers are removed."
+Twilight_Struggle,When is a Coup successful?,If this modified die roll is greater than the doubled stability number
+Twilight_Struggle,How many cards per turn can be played to the Space Race?,only play 1 card per turn
+Twilight_Struggle,When does DEFCON improve?,At the beginning of any turn in which the DEFCON status is lower than 5
+Twilight_Struggle,What does it mean to improve DEFCON?,move the DEFCON marker to a higher DEFCON number
+Twilight_Struggle,What does it mean to degrade DEFCON?,move the DEFCON marker to a lower DEFCON number
+Twilight_Struggle,Do I get operations points for playing an unplayable Event?,the unplayable Event card may still be used for its Operations value
+Twilight_Struggle,What does space 2 of the Space Race track do?,the player is allowed to play two Space Race cards per turn (instead of the usual one)
+Twilight_Struggle,What does space 4 of the Space Race track do?,the opposing player must select and reveal his or her Headline Event before the player with a ‘Man in Earth Orbit’ makes his/her Headline Event selection
+Twilight_Struggle,What does space 6 of the Space Race track do?,the player may discard their Held Card at the end of the turn
+Twilight_Struggle,What does space 8 of the Space Race track do?,the player may play eight (8) Action Rounds per turn
+Terra_Mystica,Do I get more power tokens when I gain power?,"you do not get new Power tokens, but rather move the existing ones from Bowl to Bowl"
+Terra_Mystica,What order do I take structures from my board?,from left to right
+Terra_Mystica,Can I save Spades?,You may not save Spades for future Actions.
+Terra_Mystica,Can I transform Terrain with Structures?,You may not transform a Terrain space containing Structures.
+Terra_Mystica,When are things directly adjacent?,if they share a hexagon edge
+Terra_Mystica,When are things indirectly adjacent?,"if they are (not directly adjacent to one another, but) separated by one or more River spaces and your Shipping value is high enough to cover the distance"
+Terra_Mystica,How much does it cost to upgrade a Dwelling to a Trading house?,"Upgrading a Dwelling to a Trading house costs 2 Workers and 6 Coins*. If there is at least one opponent’s Structure directly adjacent to that Dwelling, you only need to pay 3 Coins instead of 6."
+Terra_Mystica,How much does it cost to upgrade a Trading house to a Temple?,2 Workers and 5 Coins
+Terra_Mystica,Where is the Power of a Structure shown?,to the right of its track on the Faction board
+Terra_Mystica,When can I convert things?,"Anytime during your turn, on top of your Action"
+Terra_Mystica,How often can I take a Special action?,only once per round
+Terra_Mystica,When do I pass?,if you cannot or do not want to take any more Action
+Terra_Mystica,Does indirect adjacency matter when founding a Town?,Indirect adjacency (especially via River spaces) has no relevance when founding a Town.
+Terra_Mystica,When does the Action phase end?,When all players have passed
+Terra_Mystica,Who wins the game?,The player with the highest number of Victory points
+Terra_Mystica,Who wins if there is a tie?,there is more than one winner
+Terra_Mystica,How much do Spades cost at the start?,3 Workers each
+Terra_Mystica,How much does it cost to reduce the cost of Spades?,"2 Workers, 5 Coins, and 1 Priest"
+Terra_Mystica,How do I gain power if there are power tokens in Bowl I?,for each 1 Power you gain move one token from Bowl I to Bowl II
+Terra_Mystica,How do I gain power if Bowl I is empty?,for each 1 Power you gain move one token from Bowl II to Bowl III
+Terra_Mystica,Can I gain Power if all Power tokens are in Bowl III?,you cannot gain further Power
+Terra_Mystica,What order do players take actions in?,beginning with the Starting player and in clockwise order
+Terra_Mystica,How much does Transformation cost?,Each step between the source and destination terrain on the Transformation cycle of your Faction board costs 1 Spade
+Terra_Mystica,Where is the upgrade cost for a Structure shown?,on the Faction board to the left of a Structure
+Terra_Mystica,How much Power do I gain when I advance on the Cult track?,You gain 1/2/2/3 Power when advancing to the 3rd/5th/7th/10th space of a Cult track
+Terra_Mystica,Can I gain power multiple times when advancing on the Cult track?,You only gain this Power once when advancing to or passing by these spaces.
+Terra_Mystica,How many players can advance to the final space of the Cult track?,Only one player
+Terra_Mystica,How many spaces do I advance if I place a Priest on the Cult track?,3 or 2 spaces (as indicated on the space)
+Terra_Mystica,Can I get Priests back from the Cult track?,There is no way of getting these Priests back.
+Terra_Mystica,When is a Town founded?,"• There are at least 4 Structures of one color directly adjacent to one another (see Adjacency, page 11). Exception: Only 3 Structures are required if one of them is a Sanctuary. • These Structures have a combined Power value of at least 7"
+Terra_Mystica,How do I indicate a Town?,choosing and taking a Town tile (see Appendix V on page 19) and placing it under one of the Structures forming that Town
+Terra_Mystica,How many Coins do I gain in the Income Phase?,equal to the number of visible Coin symbols on your Trading house track
+Terra_Mystica,How many Priests do I gain in the Income Phase?,equal to the number of visible Priest symbols on your Temple track. Another Priest symbol will be visible once you have built your Sanctuary.
+Terra_Mystica,What happens if the supply runs out of Workers?,replace the missing components with something else
+Terra_Mystica,What happens if the supply runs out of Coins?,replace the missing components with something else
+Terra_Mystica,What happens if the supply runs out of Priests?,your supply of Priests is limited
+Terra_Mystica,How much Power do I gain in the Income Phase?,according to the visible Power symbols on the Trading house track. The Stronghold usually provides additional Power
+Terra_Mystica,What does a Spade on a Scoring tile mean?,you get Victory points for using Spades during the current Action phase
+Terra_Mystica,Are things adjacent if they are separated by a river but connected with a bridge?,Terrain spaces and Structures separated by a River but connected via a Bridge are also considered directly adjacent to one another
+Terra_Mystica,How do I expand beyond River spaces?,Terrain spaces and Structures need to be indirectly adjacent to one another
+Terra_Mystica,How much does it cost to advance on the Shipping track?,1 Priest and 4 Coins
+Terra_Mystica,How much does it cost to upgrade a Dwelling to a Trading house if an opponent's structure is directly adjacent to a Dwelling?,you only need to pay 3 Coins instead of 6
+Terra_Mystica,Do I gain power for building next to my own Structures?,You do not gain Power for your own Structures.
+Terra_Mystica,How much does it cost to gain Power from structures?,you need to lose a number of Victory points equal to one fewer than the number of Power gained
+Terra_Mystica,Can I go to a negative score when I lose Victory points from gaining power?,You may not end up with a negative score when losing Victory points.
+Terra_Mystica,When do I lose Victory points from gaining power?,You only lose Victory points when gaining Power via Structures.
+Terra_Mystica,Does a Conversion use my action?,A Conversion is not considered your Turn action.
+Terra_Mystica,How many Conversions can I do?,you may do any number of Conversions before or after your Action
+Terra_Mystica,How many resources can I save for the next round?,There is no limitation
+Terra_Mystica,What happens when two Towns are combined?,these Towns do not lose their individual rights or functions
+Terra_Mystica,How many Towns can be built?,The total number of Towns for one game is limited to 10.
+Terra_Mystica,Is there a Clean-up phase after the last round?,There is no Clean-up phase after the last round.
+Terra_Mystica,When does the game end?,after all players have passed in the Action phase of the last round
+Terra_Mystica,Are there Cult bonuses in the last round?,there are no Cult bonuses in the final round
+Food_Chain_Magnate,What do the wooden pieces mean when on a marketing campaign?,what is being advertised and for how long
+Food_Chain_Magnate,What do drinks on the map mean?,locations where buyers can get these type of drinks
+Food_Chain_Magnate,Which people can I hire?,You may only hire people at entry positions
+Food_Chain_Magnate,Can I hire if a deck runs out?,you may no longer hire that type of employee until cards become available again
+Food_Chain_Magnate,Which cards have Recruitment actions?,"the recruiting girl card (1x), the recruiting manager (2x) and the HR director (4x)"
+Food_Chain_Magnate,Which employees can I train?,"employee cards that are on the beach, including employees you just hired"
+Food_Chain_Magnate,Can I train employees at work?,Employees that are currently at work in your company structure and busy marketeers cannot be trained.
+Food_Chain_Magnate,Can I train busy marketeers?,Employees that are currently at work in your company structure and busy marketeers cannot be trained.
+Food_Chain_Magnate,Can I train an employee multiple times?,"In general, you may not train an employee you have just trained any further in the same turn."
+Food_Chain_Magnate,Can a Coach train multiple employees?,A coach (or guru) may alternatively divide their attention over multiple employees
+Food_Chain_Magnate,Can a Guru train multiple employees?,A coach (or guru) may alternatively divide their attention over multiple employees
+Food_Chain_Magnate,Can I take a U-turn to get drinks?,it is not allowed to make U-turns in order to do so
+Food_Chain_Magnate,Where can I place a new house?,"in any empty area on the map, provided the house is connected to at least one road"
+Food_Chain_Magnate,Where can I place a garden?,"A new garden must be placed so that it connects to a house printed on a map tile. It has to connect over 2 squares, so that the final house and garden forms a 2x3 rectangle. Gardens may only be placed on empty squares."
+Food_Chain_Magnate,Can I connect a garden to one square of a house?,It has to connect over 2 squares
+Food_Chain_Magnate,How many gardens can a house have?,Each house may only get one garden.
+Food_Chain_Magnate,Can I fire busy marketeers?,"Normally, marketeers that are busy may not be fired."
+Food_Chain_Magnate,What order do marketing campaigns run?,"in the order of the numbers printed on the campaigns, with the lowest number first"
+Food_Chain_Magnate,How many demand tokens can a house have on it?,"3 demand tokens in total, or 5 if the house has a garden"
+Food_Chain_Magnate,What happens if a marketing campaign reaches a house that is full of demand?,it has no effect on that house
+Food_Chain_Magnate,Which houses does a billboard reach?,all houses it is orthogonally adjacent to
+Food_Chain_Magnate,Which houses does a mailbox reach?,all houses it can get to without crossing a road
+Food_Chain_Magnate,Which houses does an airplane reach?,every house that it can fly over
+Food_Chain_Magnate,When are advertising tokens removed?,After running a campaign
+Food_Chain_Magnate,Where does a card show its range?,On the top right
+Food_Chain_Magnate,How do I track range?,"following a road, unless the card has a zeppelin symbol"
+Food_Chain_Magnate,What is range?,the number of times you cross onto a different tile
+Food_Chain_Magnate,What is an open slot?,a position in the company structure where an employee card could have been played
+Food_Chain_Magnate,What are the wooden pieces?,"food (burgers and pizzas) and drinks (softdrinks, lemonade, and beer)"
+Food_Chain_Magnate,How many actions do I get per turn?,one action for each card he has at work
+Food_Chain_Magnate,Do I have to use the pricing manager action?,"The actions of the pricing manager, discount manager, luxury manager, CFO, recruiting manager, HR director and waitress are mandatory"
+Food_Chain_Magnate,Do I have to use the discount manager action?,"The actions of the pricing manager, discount manager, luxury manager, CFO, recruiting manager, HR director and waitress are mandatory"
+Food_Chain_Magnate,Do I have to use the luxury manager action?,"The actions of the pricing manager, discount manager, luxury manager, CFO, recruiting manager, HR director and waitress are mandatory"
+Food_Chain_Magnate,Do I have to use the recruiting manager action?,"The actions of the pricing manager, discount manager, luxury manager, CFO, recruiting manager, HR director and waitress are mandatory"
+Food_Chain_Magnate,How can I hire more employees?,by having recruitment cards in your company structure
+Food_Chain_Magnate,How many employees can I recruit?,"For each recruitment action available, you may hire one additional employee."
+Food_Chain_Magnate,When do players choose which employees to use?,Each player simultaneously chooses which of their employees to use this turn.
+Food_Chain_Magnate,Do I always have to play the CEO?,The company structure always contains the CEO.
+Food_Chain_Magnate,How many cards can the CEO have?,up to three
+Food_Chain_Magnate,Who can report to the CEO?,either normal staff or managers
+Food_Chain_Magnate,How many people can report to a manager?,"between 2-10 people reporting to him, as indicated by the number of slots on the card"
+Food_Chain_Magnate,Who can report to a manager?,"normal employees, not other managers"
+Food_Chain_Magnate,What happens if I place too many cards?,all cards except the CEO are placed on the beach and the player has to play his turn with only the CEO
+Food_Chain_Magnate,When can CEOs gain or lose slots?,After the bank reserve cards have been opened
+Food_Chain_Magnate,What can extra slots hold?,normal staff or managers
+Food_Chain_Magnate,How do I show the new number of CEO slots?,You can use a reserve card
+Food_Chain_Magnate,Which player chooses their spot in turn order first?,The player with the most open slots in his company structure
+Great_Western_Trail,When does the game end?,when a player places a worker tile onto the last space of the job market while carrying out subphase 2 or 3 in Kansas City
+Great_Western_Trail,Can I play an objective card during an action?,you are neither allowed to play objective cards in the middle of an action
+Great_Western_Trail,Where do I put objective cards that I play?,face up in your personal objective area (beneath your player board)
+Great_Western_Trail,Can I move if I cannot pay a fee along my path?,you are still allowed to move
+Great_Western_Trail,Do I have to pay a fee that I avoided earlier?,You never have to pay fees retroactively
+Great_Western_Trail,Can I pass over Kansas City?,You are not allowed to pass over Kansas City.
+Great_Western_Trail,Which location do I use in phase B?,The location on which your cattleman ends its movement
+Great_Western_Trail,Are spaces with no tiles locations?,Spaces without any tile are considered an unimpeded part of the trail and are NOT locations!
+Great_Western_Trail,What are locations?,"The main location of the trail is Kansas City. Furthermore, any tile that is placed on a space of the trail is considered a location (building tiles, hazard tiles and teepee tiles)."
+Great_Western_Trail,Is Kansas City a location?,The main location of the trail is Kansas City.
+Great_Western_Trail,Where do I move on my first turn?,place your cattleman onto any neutral building tile and continue directly with phase B
+Great_Western_Trail,What does a green or black hand mean on a location?,"If your cattleman moves to or passes over such a location, you must immediately pay a fee"
+Great_Western_Trail,Where do I pay for a hazard tile?,you must pay the fee to the bank
+Great_Western_Trail,Where do I pay for a teepee tile?,you must pay the fee to the bank
+Great_Western_Trail,What happens if I ned to draw but my stack is empty?,"pick up your personal discard pile, shuffle it thoroughly and place it as your new face-down personal draw stack to the left of your player board. Then continue to draw cards from it as usual."
+Great_Western_Trail,How can I earn victory points?,"Placing private building tiles, buying cattle from the cattle market, upgrading train stations and removing hazards."
+Great_Western_Trail,What happens when a trail forks?,choose one of the available paths to continue along
+Great_Western_Trail,Can my cattleman be on the same location as another cattleman?,Several cattleman can be on the same location.
+Great_Western_Trail,Can I perform local actions in any order?,You may perform these local actions in any order.
+Great_Western_Trail,Do I have to perform all the local actions?,You do not have to perform all of the available local actions.
+Great_Western_Trail,When can I perform an auxiliary action?,"If you do not perform any of the local actions of the reached tile,"
+Great_Western_Trail,Where are my auxiliary actions?,on the left side of your player board in the auxiliary action section
+Great_Western_Trail,How do I get more auxiliary actions?,after you have cleared at least one of its two disc spaces
+Great_Western_Trail,"What happens if I need to fill the cattle market, but it already has enough cards?",don't add any cards to it
+Great_Western_Trail,"What happens if I need to fill the cattle market, but the market cattle stack is empty?",no more cards are added to the cattle market
+Great_Western_Trail,How do I calculate the total breeding value?,sum the breeding values of each different type of cattle that you have in hand
+Great_Western_Trail,What types of certificates are there?,Temporary certificates and permanent certificates
+Great_Western_Trail,Which certificates are temporary?,those on your certificate track
+Great_Western_Trail,Which certificates are permanent?,those on the upper half of any station master tiles in front of you
+Great_Western_Trail,How much do permanent certificates increase my breeding value?,Each of those increases your total breeding value automatically by 1 for the rest of the game.
+Catan,Can I do a 4:1 trade if I don't have a settlement on a harbor?,The 4:1 trade is always possible
+Catan,What does building do?,"you can increase your victory points, expand your road network, improve your resource production, and/or buy useful Development Cards"
+Catan,Are Development cards public?,Keep Development Cards hidden in your hand.
+Catan,Can I build more pieces than I have?,You cannot build more pieces than what is available in your pool
+Catan,How can roads connect?,"A new road must always connect to one of your existing roads, settlements, or cities."
+Catan,Can a path have multiple roads?,Only 1 road can be built on any given path.
+Catan,How do I get the Longest Road card?,build a continuous road (not counting forks) of at least 5 road segments
+Catan,How many points are settlements worth?,1 victory point
+Catan,How many points are cities worth?,2 victory points
+Catan,How do I establish a city?,by upgrading one of your settlements
+Catan,How many resources do cities produce?,twice as many resources as settlements
+Catan,What kinds of Development Cards are there?,Knight; Progress; and Victory Point
+Catan,Can I buy Development Cards if none are left?,you cannot buy Development Cards if the supply is empty
+Catan,What happens when I play a Knight?,you must immediately move the robber
+Catan,How do I get the Largest Army card?,have 3 Knight Cards
+Catan,When can I play Victory Point cards?,You may only reveal them during your turn and when you are sure that you have 10 victory points
+Catan,How many Victory Point cards can I play at once?,any number
+Catan,Who goes first?,the oldest player
+Catan,When can I play Development Cards?,at any time during your turn
+Catan,What happens if there are not enough resources to produce?,no one receives any of that resource during that turn
+Catan,What does a road cost?,Brick & Lumber
+Catan,What does a settlement cost?,"Brick, Lumber, Wool, & Grain"
+Catan,What does a city cost?,3 Ore & 2 Grain
+Catan,What does a development card cost?,"Ore, Wool, & Grain"
+Catan,Can I play a development card on the same turn that I bought it?,"That card, however, may not be a card you bought during the same turn!"
+Catan,How do I win?,If you have 10 or more victory points during your turn
+Catan,When does the game end?,If you have 10 or more victory points during your turn
+Carcassonne,Can I play a tile connected to a corner?,The new tile cannot only be connected by a corner with a previous tile.
+Carcassonne,What happens if I can't place a tile?,the player returns the tile to the box and draws another tile
+Carcassonne,Which tiles can I put a follwer on?,The player may only put it on the tile he just placed.
+Carcassonne,Can I take a follower off a tile?,A player is never allowed to retake one of his followers from a tile
+Carcassonne,When do I get followers back?,"they are returned when roads, cities or monasteries are finished"
+Carcassonne,When is a road completed?,"once both ends of the road are connected to a crossroad, a city section, a monastery or the road loops onto itself"
+Carcassonne,Can a road have multiple segments?,There may be many segments along the road.
+Carcassonne,When is a city complete?,when it is completely surrounded by walls and there are no gaps in the walls
+Carcassonne,How does a road score?,The player who has a thief on a completed road scores 1 point per tile used in completed the road.
+Carcassonne,How does a city score?,A player who owns a knight in a completed city scores 2 points per tile used in the city. Each shield or banner in the city gives the player 2 bonus points.
+Carcassonne,When is a monastery complete?,when the tile it is on is completely surrounded by tiles
+Carcassonne,How does a monastery score?,The player who owns a monk in a completed monastery or cloister gets 9 points.
+Carcassonne,Can I get farmers back?,farmers stay for the entire game on the fields and are never returned
+Carcassonne,When does the game end?,"When a player places the last tile, the game will end after his turn"
+Carcassonne,How do incomplete roads score?,The player who has a thief on the road or a knight in the city scores one point for each road or city segment in the incomplete road or city.
+Carcassonne,How do incomplete cities score?,The player who has a thief on the road or a knight in the city scores one point for each road or city segment in the incomplete road or city. Banners or shields earn the city player one point each.
+Carcassonne,How do incomplete monasteries score?,A player who has a follower on an incomplete monastery scores 1 point for each monastery tile.
+Carcassonne,How many tiles do I draw per turn?,one tile
+Terraforming_Mars,What are the global parameters?,"Temperature, oxygen, and ocean"
+Terraforming_Mars,When does the game end?,"When all three global parameters have reached their goal, the game ends after that generation"
+Terraforming_Mars,Do I have to buy all four cards?,you may buy 0-4 cards
+Terraforming_Mars,What do I do with cards that I don't buy?,The rest of the 4 drawn cards are discarded face down on the discard pile.
+Terraforming_Mars,How many actions can I take?,"1 or 2 actions each turn, or pass"
+Terraforming_Mars,Where are the immediate effects of a card shown?,the lower panel
+Terraforming_Mars,What order do card effects happen in?,in any order you choose
+Terraforming_Mars,What does a red tile mean?,any player's tile
+Terraforming_Mars,What does a red tag mean?,any player's tag
+Terraforming_Mars,Where do I place events when I play them?,in a personal pile face down
+Terraforming_Mars,Where do I place automated cards when I play them?,face up in a stack on the table with only the top row visible
+Terraforming_Mars,Where do I place active cards when I play them?,with the top panel visible
+Terraforming_Mars,Can multiple player claim milestones?,A milestone may only be claimed by one player
+Terraforming_Mars,How many milestones can be claimed?,only 3 of the 5 milestones
+Terraforming_Mars,How many points are milestones worth?,5 VPs at the end of the game
+Terraforming_Mars,How are actions indicated on cards?,a red arrow
+Terraforming_Mars,How many times can I use an action on a card?,once each generation
+Terraforming_Mars,What does a greenery tile cost?,8 plant resources
+Terraforming_Mars,What does a greenery do?,increases oxygen level 1 step
+Terraforming_Mars,How many points is a greenery worth?,1 VP in itself as well as 1 VP to each adjacent city in the end game scoring
+Terraforming_Mars,How much does it cost to increase temperature?,8 heat resources
+Terraforming_Mars,Where can I place oceans?,on areas reserved for the ocean
+Terraforming_Mars,Who owns oceans?,Ocean tiles are not owned by any player.
+Terraforming_Mars,Do I still get TR if I don't raise the oxygen level by placing a greenery tile?,If you can't raise the oxygen level you don't get the increase in TR either.
+Terraforming_Mars,Can I place a city next to another city?,May not be placed next to another city
+Terraforming_Mars,How many points are cities worth?,Each city tile is worth 1 VP for each adjacent greenery tile (regardless of owner) at the end of the game.
+Terraforming_Mars,Is production limited to 10?,Production is not limited to 10.
+Terraforming_Mars,What are plants used for?,May be converted into greenery tiles by using the depicted action.
+Terraforming_Mars,When is energy converted to heat?,at the beginning of the production phase
+Terraforming_Mars,What does a blue ribbon on a card mean?,an ongoing effect or action that may be used during the game
+Terraforming_Mars,Are effects persistent?,effects are always active
+Terraforming_Mars,How many cards can I hold in my hand?,There is no hand limit.
+Terraforming_Mars,Can I do the same action multiple times?,The actions may be combined in any way the player chooses.
+Terraforming_Mars,Can I take actions after I pass?,"If you take no action at all (pass), you are out of the round and may not take any anymore actions this generation."
+Terraforming_Mars,When does the action phase end?,When everyone has passed
+Terraforming_Mars,What does a red frame on a card mean?,you can affect any player you choose
+Power_Grid_Recharged,How many power plants can I buy in an auction?,at most 1 power plant
+Power_Grid_Recharged,Can I bid in an auction after I pass?,they cannot bid in later auctions during this phase
+Power_Grid_Recharged,Can I connect to a city multiple times?,A player may never connect to the same city twice.
+Power_Grid_Recharged,Which cities are in my network?,All connected cities of a player are in their network.
+Power_Grid_Recharged,How much cash do I earn from cities?,based on the number of cities they power as shown on the payment summary card
+Power_Grid_Recharged,What happens if I don't supply any cities?,A player who does not supply any city gets 10 Elektro
+Power_Grid_Recharged,Do I have to supply every city in my network?,A player may choose (or only be able) to supply fewer cities than they have in their network.
+Power_Grid_Recharged,What happens if I produce more electicity than my cities need?,the surplus is wasted
+Power_Grid_Recharged,Are resources limited?,The resource tokens in the game are limited.
+Power_Grid_Recharged,When does the game end?,"immediately after Phase 4 (Build Houses) when at least one player has connected the indicated number of cities (or more) in their network, depending on the number of players"
+Power_Grid_Recharged,How do I show that I passed?,they move their house on the player order track to the same numbered space on the bottom row
+Power_Grid_Recharged,Who goes first in a round?,the player with the most cities in their network
+Power_Grid_Recharged,Who goes first if players are tied for most cities?,the player among them with the biggest power plant
+Power_Grid_Recharged,What order are power plants placed in?,in ascending order of numbers
+Power_Grid_Recharged,What happens if no one buys a discounted power plant?,remove it from the game at the end of Phase 2
+Power_Grid_Recharged,What do I do if I buy a fourth power plant?,scrap one of their other power plants and remove it from the game
+Power_Grid_Recharged,What happens when a resource is depleted?,no more resource tokens of this type may be purchased from the resource market until next round when the resource market is refilled
